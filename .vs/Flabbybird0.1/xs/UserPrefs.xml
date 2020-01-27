@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{57AFCD3D-141D-382F-43EA-B4F333FA866E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GroundController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GroundController.cs" Line="36" Column="103" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="77" Column="54" />
+      <File FileName="Assets/Scripts/Ground.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flabbybird0.1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GroundController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="21315b4e-c9b3-43a5-ae95-3bd610345cc9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
